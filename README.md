@@ -35,14 +35,3 @@ Add comments by filling in the form
 - Materialize - Add CDN link http://materializecss.com/getting-started.html
 ```
 
-## Built With
-
-* Sublime Text - Text Editor
-* Node
-* Mongoose/MongoDB
-* Robomongo - Download the latest version https://robomongo.org/
-* Materialize - Wireframe
-
-## Authors
-
-* **Stefanie Ding** - Full Stack Developer - [Stefanie Ding](https://github.com/StefanieDing)
