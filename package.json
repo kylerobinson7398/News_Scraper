@@ -19,13 +19,13 @@
   },
   "homepage": "https://github.com/StefanieDing/scrape-the-news#readme",
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.18.3",
     "cheerio": "^0.22.0",
-    "express": "^4.14.0",
+    "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
-    "mongoose": "^4.7.1",
+    "mongoose": "^5.3.5",
     "morgan": "^1.7.0",
-    "request": "^2.79.0"
+    "request": "^2.88.0"
   },
   "engines": {
     "node": "6.11.1"
